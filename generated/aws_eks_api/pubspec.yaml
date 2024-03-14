@@ -1,15 +1,15 @@
 name: aws_eks_api
 description: AWS API client for Amazon Elastic Kubernetes Service (generated from SDK API specification).
-version: 2.0.0
+version: 2.0.1
 homepage: https://github.com/agilord/aws_client/tree/master/generated/aws_eks_api
 
 
 protocol: rest-json
 
 environment:
-  sdk: '>=2.17.0 <3.0.0'
+  sdk: '>=2.17.0 <4.0.0'
 
 dependencies:
-  shared_aws_api: ^2.0.0
+  shared_aws_api: ^2.0.1
 
 
